@@ -1,0 +1,11 @@
+.activeloader{
+display: inline-block,
+
+
+}
+.disableloader{
+    display: none;
+}
+.clickedbtn{
+    background-color:blueviolet
+}
